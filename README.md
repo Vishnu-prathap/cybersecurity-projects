@@ -49,43 +49,11 @@ A full risk assessment for a fictional 28-person public accounting firm handling
 **Deliverables:** Word document (`.docx`), LaTeX source (`.tex`), compiled PDF
 **Skills demonstrated:** Risk identification, qualitative risk analysis, control mapping, regulatory awareness, executive-ready report writing
 
-📂 [`/01-risk-assessment-harbor-finch/`](./01-risk-assessment-harbor-finch/)
+📂 [`/01-risk-assessment-harbor-finch/`]((https://github.com/Vishnu-prathap/cybersecurity-projects/blob/main/harbor_finch_cpas_risk_assessment.pdf))
 
----
 
-### 2. *[Coming soon]* SOC Detection Rule & Incident Response Runbook
 
-A Sigma detection rule for a specific attack technique paired with a one-page analyst runbook covering triage, investigation, and escalation steps.
 
-**Planned framework:** MITRE ATT&CK
-**Planned deliverables:** Sigma rule (`.yml`), Markdown runbook
-
----
-
-### 3. *[Coming soon]* CIS Controls Mini Audit
-
-A self-audit of a personal Windows or Linux endpoint against 10–15 CIS Controls v8 safeguards, documenting findings (pass/fail/partial) with evidence and recommendations.
-
-**Planned framework:** CIS Controls v8 (Implementation Group 1)
-**Planned deliverables:** Audit workpaper, findings report
-
----
-
-## Repository Structure
-
-```
-cybersecurity-projects/
-├── README.md                              ← you are here
-├── 01-risk-assessment-harbor-finch/
-│   ├── README.md                          ← project-specific notes
-│   ├── Harbor_Finch_CPAs_Risk_Assessment.docx
-│   ├── risk_assessment.tex
-│   └── risk_assessment.pdf
-├── 02-soc-detection-runbook/              ← coming soon
-└── 03-cis-controls-audit/                 ← coming soon
-```
-
----
 
 ## How I Approach These Projects
 
