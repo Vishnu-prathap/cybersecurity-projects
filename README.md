@@ -84,7 +84,7 @@ Every project follows the same discipline:
 If you're a recruiter, hiring manager, or fellow student and want to discuss any of these projects, feel free to reach out:
 
 - **GitHub:** [Vishnu-prathap](https://github.com/Vishnu-prathap)
-- **LinkedIn:** [linkedin.com/in/vishnu-prathap]((https://www.linkedin.com/in/vishnu-prathap-jrvp-43a775383/))
+- **LinkedIn:** [https://www.linkedin.com/in/vishnu-prathap-jrvp-43a775383/]((https://www.linkedin.com/in/vishnu-prathap-jrvp-43a775383/))
 - **Email:** vishnu.prathapjrvp@gmail.com
 
 ---
